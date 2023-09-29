@@ -28,5 +28,3 @@ You are welcome to explore my projects, provide suggestions, or report issues. I
 
 Thank you for visiting my GitHub; I hope you find something interesting here!
 
-![Caffeine](https://link.to/caffeine-image)
-
